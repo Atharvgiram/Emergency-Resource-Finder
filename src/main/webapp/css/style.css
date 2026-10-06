@@ -1,0 +1,16 @@
+body { font-family: Arial, sans-serif; }
+.hero {
+    padding: 110px 20px;
+    background: linear-gradient(135deg, #111827, #7f1d1d);
+    color: white;
+}
+.feature-card {
+    padding: 30px;
+    border-radius: 16px;
+    background: white;
+    box-shadow: 0 5px 20px rgba(0,0,0,.08);
+}
+.resource-card {
+    border: 0;
+    border-radius: 16px;
+}
